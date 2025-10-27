@@ -7,5 +7,6 @@ a year at Jane street.
 |Date|Name|
 |---|---|
 |26/10/2025|[String calculator REPL](./string-calc/)|
+|27/10/2025|[JSON parser REPL](./json-parser/)|
 
 
